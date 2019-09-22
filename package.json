@@ -1,0 +1,26 @@
+{
+  "name": "web3js-ethersjs-comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianwchou/web3js-ethersjs-comparison.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianwchou/web3js-ethersjs-comparison/issues"
+  },
+  "homepage": "https://github.com/brianwchou/web3js-ethersjs-comparison#readme",
+  "dependencies": {
+    "ganache-time-traveler": "^1.0.5"
+  }
+}
