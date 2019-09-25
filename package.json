@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/brianwchou/web3js-ethersjs-comparison#readme",
   "dependencies": {
-    "ganache-time-traveler": "^1.0.5"
+    "ganache-time-traveler": "^1.0.5",
+    "web3": "^1.2.1"
   }
 }
